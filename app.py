@@ -3,3 +3,5 @@ import streamlit as st
 st.title("Aplicación de Fundamentos Stremlit")
 
 st.sidebar.title("Parámetros")
+
+st.image("LogoUHE.png")
